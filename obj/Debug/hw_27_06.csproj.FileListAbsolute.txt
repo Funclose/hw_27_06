@@ -1,0 +1,7 @@
+C:\Users\Artem\source\repos\For_ALL_HW\hw_27_06\bin\Debug\hw_27_06.exe.config
+C:\Users\Artem\source\repos\For_ALL_HW\hw_27_06\bin\Debug\hw_27_06.exe
+C:\Users\Artem\source\repos\For_ALL_HW\hw_27_06\bin\Debug\hw_27_06.pdb
+C:\Users\Artem\source\repos\For_ALL_HW\hw_27_06\obj\Debug\hw_27_06.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\For_ALL_HW\hw_27_06\obj\Debug\hw_27_06.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\For_ALL_HW\hw_27_06\obj\Debug\hw_27_06.exe
+C:\Users\Artem\source\repos\For_ALL_HW\hw_27_06\obj\Debug\hw_27_06.pdb
